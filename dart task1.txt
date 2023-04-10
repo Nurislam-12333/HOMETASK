@@ -32,7 +32,7 @@ class SearchBox extends StatelessWidget {
                           color: Color.fromARGB(255, 150, 148, 148)
                             ..withOpacity(0.23))
                     ]),
-                child: Row(
+                child: Row(o
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
                     Padding(
